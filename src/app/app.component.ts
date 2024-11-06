@@ -9,7 +9,6 @@ export class AppComponent {
   title = 'github';
   flower:any = [
     {name: 'Rose', color:'Red'},
-    {name: 'Jasmine', color:'White'},
-    {name: 'Sunflower', color:'Yellow'}
+    {name: 'Sunflower', color:'Yellow'},
   ]
 }
