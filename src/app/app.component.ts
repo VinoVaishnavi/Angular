@@ -7,8 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'github';
-  flower:any = [
-    {name: 'Rose', color:'Red'},
-    {name: 'Sunflower', color:'Yellow'},
-  ]
+  myColor:string = 'Red'
+  myName:string = 'Vino'
 }
